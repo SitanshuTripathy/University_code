@@ -1,0 +1,7 @@
+Roll :21
+Name :ew
+Marks 1: 12
+Marks 2: 32
+Marks 3: 12
+Gender : M
+total : 56
